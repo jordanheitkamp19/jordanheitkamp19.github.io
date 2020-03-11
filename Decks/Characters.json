@@ -1,0 +1,751 @@
+[{
+	"id": 1,
+	"name": "Iron Man",
+	"deck": "base",
+	"color": "#ffffff",
+	"textColor": "#000000"
+}, {
+	"id": 2,
+	"name": "Batman",
+	"deck": "base",
+	"color": "#ffffff",
+	"textColor": "#000000"
+}, {
+    "id": 3,
+    "name": "Rayquaza",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 4,
+    "name": "Pikachu",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 5,
+    "name": "Queen",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 6,
+    "name": "Mario",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 7,
+    "name": "Link",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 8,
+    "name": "Your Mom",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 9,
+    "name": "Conan",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 10,
+    "name": "Liam",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 11,
+    "name": "God",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 12,
+    "name": "An American",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 13,
+    "name": "Barack Obama",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 14,
+    "name": "Alex",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 15,
+    "name": "A Tyranosaurus Rex",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 16,
+    "name": "Mozart",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 17,
+    "name": "Harry Potter",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 18,
+    "name": "Thor",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 19,
+    "name": "A Rat",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 20,
+    "name": "A Pringle",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 21,
+    "name": "Snoop Dog",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 22,
+    "name": "Toto",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 23,
+    "name": "An Alien",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 24,
+    "name": "Godzilla",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 25,
+    "name": "Bill Gates",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 26,
+    "name": "Mr. Potato Head",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 27,
+    "name": "The Tallest Person In The Room",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 28,
+    "name": "Sam",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 29,
+    "name": "A Baby",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 30,
+    "name": "Arnold Schwarzenegger",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 31,
+    "name": "Shia Lebouf",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 32,
+    "name": "Me",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 33,
+    "name": "A Zombie",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 34,
+    "name": "The Not-So Little Mermaid",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 35,
+    "name": "Chuck Norris",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 36,
+    "name": "Tim Allen",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 37,
+    "name": "Buffy the Vampire Slayer",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 38,
+    "name": "Babe Ruth",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 39,
+    "name": "Michael",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 40,
+    "name": "A Loaf of Bread",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 41,
+    "name": "Karen",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 42,
+    "name": "A Homeless Person",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 43,
+    "name": "Jared",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 44,
+    "name": "Captain Hook",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 45,
+    "name": "Colonel Sanders",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 46,
+    "name": "Mr. Rogers",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 47,
+    "name": "Sacagawea",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 48,
+    "name": "The Rock",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 49,
+    "name": "Simon",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 50,
+    "name": "Pick A TV Show Character",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 51,
+    "name": "The Entire Cast of Friends",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 52,
+    "name": "Clifford The Big Red Dog",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 53,
+    "name": "Pick Someone Whose Last Name Is Johnson",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 54,
+    "name": "Katniss Everdeen",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 55,
+    "name": "Padme Amidala",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 56,
+    "name": "Lindsey Lohan",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 57,
+    "name": "Elmo",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 58,
+    "name": "The Pope",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 59,
+    "name": "Dad",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 60,
+    "name": "The Same Character As Your Opponent",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 61,
+    "name": "A Dragon",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 62,
+    "name": "Everybody At An NFL Game",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 63,
+    "name": "Thanos",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 64,
+    "name": "Homer Simpson",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 65,
+    "name": "Shaggy",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 66,
+    "name": "Satan",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 67,
+    "name": "Bob Ross",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 68,
+    "name": "Jackie Chan",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 69,
+    "name": "A Really Nice Person",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 70,
+    "name": "Bruce Lee",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 71,
+    "name": "Spongebob Squarepants",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 72,
+    "name": "Morgan Freeman",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 73,
+    "name": "Anna Kendrick",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 74,
+    "name": "Usain Bolt",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 75,
+    "name": "A Cowboy",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 76,
+    "name": "A Cow",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 77,
+    "name": "Mike",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 78,
+    "name": "A Hoarder",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 79,
+    "name": "George Washington",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 80,
+    "name": "Barney",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 81,
+    "name": "The Chosen One",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 82,
+    "name": "King Tut",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 83,
+    "name": "Dr. Phil",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 84,
+    "name": "A Smooth Criminal",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 85,
+    "name": "Jack Sparrow",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 86,
+    "name": "Tony Hawk",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 87,
+    "name": "Master Chief",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 88,
+    "name": "A Tiger",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 89,
+    "name": "The Grim Reaper",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 90,
+    "name": "A Sim",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 91,
+    "name": "King Henry VIII",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 92,
+    "name": "Ellen",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 93,
+    "name": "A German Shepherd",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 94,
+    "name": "A Serial Killer",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 95,
+    "name": "Pick A Musical Artist",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 96,
+    "name": "Will Smith",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 97,
+    "name": "Every 12 Year Old In The World",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 98,
+    "name": "A Terrorist",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 99,
+    "name": "The Captain of The Titanic",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 100,
+    "name": "A Teletubby",
+    "deck": "base",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 101,
+    "name": "Anakin Skywalker",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 102,
+    "name": "Emperor Palpatine",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 103,
+    "name": "Admiral Ackbar",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 104,
+    "name": "Jyn Erso",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 105,
+    "name": "Rey",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 106,
+    "name": "Finn",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 107,
+    "name": "General Grievous",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 108,
+    "name": "Yoda",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 109,
+    "name": "Darth Vader",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 110,
+    "name": "Count Dooku",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 111,
+    "name": "Greedo",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 112,
+    "name": "A Stormtrooper",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 113,
+    "name": "A Clone",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 114,
+    "name": "Mace Windu",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 115,
+    "name": "Leia",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 116,
+    "name": "Kylo Ren",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 117,
+    "name": "Luke Skywalker",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 118,
+    "name": "Han Solo",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 119,
+    "name": "Po Dameron",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 120,
+    "name": "C-3PO",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 121,
+    "name": "R2-D2",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 122,
+    "name": "Lando Calrissian",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 123,
+    "name": "A Tauntaun",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 124,
+    "name": "Everyone On Alderaan",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}, {
+    "id": 125,
+    "name": "A Tusken Raider",
+    "deck": "Star Wars",
+    "color": "#ffffff",
+    "textColor": "#000000"
+}]

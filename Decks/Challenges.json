@@ -1,0 +1,295 @@
+[{
+	"id": 1,
+	"name": "Dodgeball - Teams Of 5",
+	"deck": "base",
+	"color": "#ffff99",
+	"textColor": "#000000"
+}, {
+	"id": 2,
+	"name": "Baseball - Teams Of 9",
+	"deck": "base",
+	"color": "#ffff99",
+	"textColor": "#000000"
+}, {
+    "id": 3,
+    "name": "Golf",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 4,
+    "name": "Super Smash Bros.",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 5,
+    "name": "Sitting Still",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 6,
+    "name": "Computer Programming",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 7,
+    "name": "Singing",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 8,
+    "name": "Best teacher",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 9,
+    "name": "Worst Role Model",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 10,
+    "name": "Better At Working A 9-5 Job",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 11,
+    "name": "Best Host Of Wheel Of Fortune",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 12,
+    "name": "Best Host Of Who Wants To Be A Millionaire",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 13,
+    "name": "Worst Host Of Are You Smarter Than A Fifth Grader?",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 14,
+    "name": "500 Mile Race",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 15,
+    "name": "Steal The Declaration Of Independence",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 16,
+    "name": "The Best Strategist",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 17,
+    "name": "The Best At Provoking Joy",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 18,
+    "name": "Killing A Tyranosaurus Rex",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 19,
+    "name": "Getting A Date",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 20,
+    "name": "Buying Groceries",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 21,
+    "name": "Breaking Into A Government Facility",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 22,
+    "name": "Dancing",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 23,
+    "name": "100m Dash",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 24,
+    "name": "Soccer - Teams Of 11",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 25,
+    "name": "Football - Teams Of 11",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 26,
+    "name": "The Best Assassin",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 27,
+    "name": "The Worst Assassin",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 28,
+    "name": "Escaping From The Police",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 29,
+    "name": "Running For President",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 30,
+    "name": "Most Attractive Model",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 31,
+    "name": "The Hunger Games",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 32,
+    "name": "Pie Eating Competition",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 33,
+    "name": "Drinking Beer",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 34,
+    "name": "The Better Austronaut",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 35,
+    "name": "Remembering Their Passwords",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 36,
+    "name": "Playing Hide And Seek",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 37,
+    "name": "Destroying An Entire Village",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 38,
+    "name": "The Most Powerful Wizard",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 40,
+    "name": "Hunting",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 41,
+    "name": "Surving The Black Plague",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 42,
+    "name": "Most Likely To Expect The Spanish Inquisition",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 43,
+    "name": "Best Pirate",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 44,
+    "name": "Miss America Contest",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 45,
+    "name": "Snap Poetry Competition",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 46,
+    "name": "Sleeping Competition",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 47,
+    "name": "Farming",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 48,
+    "name": "Painting",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 49,
+    "name": "Masonry",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}, {
+    "id": 50,
+    "name": "Basketball - Teams Of 5",
+    "deck": "base",
+    "color": "#ffff99",
+    "textColor": "#000000"
+}]
