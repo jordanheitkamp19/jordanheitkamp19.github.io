@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+    font-size: 200%;
+}
+
+#superfight {
+    background-color: white;
+    border: 1px solid powderblue;
+}
+
+#superfight_title_box {
+    background-color: powderblue;
+    color: white;
+}
