@@ -1,5 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 1, 2020, 3:31:19 PM
+    Author     : Jordan Heitkamp
+*/
+
 body {
     background-color: white;
+    font-family: "Helvetica";
+    width: 100%;
 }
 
 h1 {
@@ -8,11 +20,35 @@ h1 {
 }
 
 #superfight {
-    background-color: white;
-    border: 1px solid powderblue;
+    background-image: linear-gradient(to right, black, gray);
+    width: inherit;
+    font-family: "Helvetica";
 }
 
 #superfight_title_box {
-    background-color: powderblue;
+    background-color: deepskyblue;
     color: white;
+    margin: 0px 0px 10px 0px;
 }
+
+#superfight_title {
+    position: relative;
+    font-size: xx-large;
+    top: 0px;
+    margin: 5px 5px 5px 5px;
+}
+
+#get_superfight {
+    position: relative;
+    margin: 0px 0px 10px 5px;
+    font-family: inherit;
+    border: 1px solid black;
+    width: 95%;
+    background-color: deepskyblue;
+    color: white;
+    font-size: x-large;
+    text-align: left;
+    
+}
+
+
