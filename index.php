@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+<?php
+    echo "Request Received...";
+?>
+
 <html>
 <head>
     <link rel="stylesheet" href="index.css">
@@ -17,5 +20,8 @@
             <button id="get_superfight" type="submit">Get Superfight</button>
         </form>-->
     </div>
+    <form action="<?php $_PHP_SELF ?>" method="POST">
+        <button id="test_button">Test</button>
+    </form>
 </body>
 </html>
