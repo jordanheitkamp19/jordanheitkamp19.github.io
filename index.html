@@ -2,7 +2,6 @@
 <html>
 <head>
     <link rel="stylesheet" href="index.css">
-    <script src="Server.js"></script>
 </head>
 <body>
     <h1>Welcome!</h1>
@@ -17,7 +16,8 @@
             <button id="get_superfight" type="submit">Get Superfight</button>
         </form>-->
     </div>
-    <form action="<?php echo 'Request Received...'; ?>" method="POST">
+    <form action="ServerHandler.php" method="POST">
+        Name: <input name="say" value="Hi">
         <button id="test_button">Test</button>
     </form>
 </body>
