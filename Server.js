@@ -6,7 +6,8 @@ var LISTENING_PORT_NUMBER = 32000;
 
 const http = require( 'http' );
 
-var startServer = function() {
+function startServer() {
+    console.log( `Server starting...` );
     //Request takes the clients post
     //responseponse sends back to the client
     const server = http.createServer( function( request, response ) {
