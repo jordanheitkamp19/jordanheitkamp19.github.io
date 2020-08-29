@@ -3,7 +3,7 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
-/* 
+/*
     Created on : Apr 1, 2020, 3:31:19 PM
     Author     : Jordan Heitkamp
 */
@@ -25,13 +25,32 @@ h1 {
     font-family: "Helvetica";
 }
 
+#pokemon {
+    background-image: linear-gradient(to right, black, gray);
+    width: inherit;
+    font-family: "Helvetica";
+}
+
 #superfight_title_box {
     background-color: deepskyblue;
     color: white;
     margin: 0px 0px 10px 0px;
 }
 
+#pokemon_title_box {
+    background-color: deepskyblue;
+    color: yellow;
+    margin: 0px 0px 10px 0px;
+}
+
 #superfight_title {
+    position: relative;
+    font-size: xx-large;
+    top: 0px;
+    margin: 5px 5px 5px 5px;
+}
+
+#pokemon_title {
     position: relative;
     font-size: xx-large;
     top: 0px;
@@ -48,7 +67,16 @@ h1 {
     color: white;
     font-size: x-large;
     text-align: left;
-    
 }
 
-
+#get_pokemon {
+    position: relative;
+    margin: 0px 0px 10px 5px;
+    font-family: inherit;
+    border: 1px solid black;
+    width: 95%;
+    background-color: deepskyblue;
+    color: yellow;
+    font-size: x-large;
+    text-align: left;
+}
