@@ -2,6 +2,13 @@
     {
         "id": 1,
         "name": "Push-Ups",
-        "muscles": ["Core", "Arms"]
+        "muscles": ["Core", "Arms"],
+        "type": "weighted"
+    },
+    {
+        "id": 2,
+        "name": "Sit-Ups",
+        "muscles": ["Core"],
+        "type": "unweighted"
     }
 ]
