@@ -1,0 +1,307 @@
+[{
+	"id": 1,
+	"name": "Kanto Stadium",
+	"deck": "base",
+	"color": "#0000ff",
+	"textColor": "#ffffff"
+}, {
+	"id": 2,
+	"name": "Volcano",
+	"deck": "base",
+	"color": "#0000ff",
+	"textColor": "#ffffff"
+}, {
+    "id": 3,
+    "name": "Underwater",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 4,
+    "name": "Space",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 5,
+    "name": "The Moon",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 6,
+    "name": "The Death Star",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 7,
+    "name": "The Room You Are In Right Now",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 8,
+    "name": "Hogwarts",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 9,
+    "name": "Math Class",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 10,
+    "name": "Germany",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 11,
+    "name": "Middle Earth",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 12,
+    "name": "In A Freezer",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 13,
+    "name": "The Australian Outback",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 14,
+    "name": "Wonderland",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 15,
+    "name": "A Golf Course",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 16,
+    "name": "New York City",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 17,
+    "name": "Texas",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 18,
+    "name": "On A Moving Bus",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 19,
+    "name": "A Corn Field",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 20,
+    "name": "A Garage",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 21,
+    "name": "A Landfill",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 22,
+    "name": "A Baseball Diamond",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 23,
+    "name": "A Parking Lot",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 24,
+    "name": "The Internet",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 25,
+    "name": "The Judge's House",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 26,
+    "name": "A Forest",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 27,
+    "name": "Death Valley",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 28,
+    "name": "Walmart",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 29,
+    "name": "Hawaii",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 30,
+    "name": "A Cow Pasture",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 31,
+    "name": "A Cranberry Bog",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 32,
+    "name": "The 80s",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 33,
+    "name": "An Ice Rink",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 34,
+    "name": "The White House",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 35,
+    "name": "A Church",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 36,
+    "name": "A Concert",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 37,
+    "name": "A Wedding",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 38,
+    "name": "A Skyscraper Construction Site",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 39,
+    "name": "The Sahara Desert",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 40,
+    "name": "A College Campus",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 41,
+    "name": "Alcatraz",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 42,
+    "name": "In The Back Of A Moving Truck",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 43,
+    "name": "Gettysburg",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 44,
+    "name": "On A Boat",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 45,
+    "name": "Mickey Mouse's Clubhouse",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 46,
+    "name": "Chicago",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 47,
+    "name": "The Museum Of Natural History",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 48,
+    "name": "In A Burning Building",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 49,
+    "name": "Japan",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 50,
+    "name": "Antarctica",
+    "deck": "base",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}, {
+    "id": 51,
+    "name": "Hotel California",
+    "deck": "Music",
+    "color": "#0000ff",
+    "textColor": "#ffffff"
+}]

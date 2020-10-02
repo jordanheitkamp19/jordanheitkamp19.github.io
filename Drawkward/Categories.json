@@ -1,0 +1,37 @@
+[{
+	"id": 1,
+	"category": "base",
+	"categoryPrimary": "#000000",
+	"categorySecondary": "#ffffff",
+	"decks": [{
+		"name": "base",
+		"backgroundColor": "#ffffff",
+		"textColor": "#000000"
+	}]
+}, {
+	"id": 2,
+	"category": "Entertainment",
+	"categoryPrimary": "#00bb00",
+	"categorySecondary": "#44ff99",
+	"decks": [{
+		"name": "Star Wars",
+		"backgroundColor": "#0000dd",
+		"textColor": "#880088"
+	}, {
+		"name": "Nintendo",
+		"backgroundColor": "#ffffff",
+		"textColor": "#ff0000"
+	}, {
+		"name": "Marvel",
+		"backgroundColor": "#ed1d24",
+		"textColor": "#ffffff"
+	}, {
+		"name": "Music",
+		"backgroundColor": "#ffffff",
+		"textColor": "#000000"
+	}, {
+		"name": "Skyrim",
+		"backgroundColor": "#000000",
+		"textColor": "#bbbbbb"
+	}]
+}]
