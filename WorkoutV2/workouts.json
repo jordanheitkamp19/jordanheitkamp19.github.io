@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Push Ups",
+        "type": "Time",
+        "muscles": [ "Core", "Arms" ],
+        "description": "Do Push Ups"
+    }, {
+        "id": 2,
+        "name": "Sit ups",
+        "type": "Time",
+        "muscles": [ "Core" ],
+        "description": "Do Sit ups"
+    }, {
+        "id": 3,
+        "name": "Bench Press",
+        "type": "Weight",
+        "muscles": [ "Arms" ],
+        "description": "Do Bench Press"
+    }
+]
